@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 #
 # Social Media Analytics
-# Title: Social Network Analysis on Gun Control
+# Title: Social Network & Sentiment Analysis on Gun Control
 # By: Vivian Yuen-Lee
 #
 #-----------------------------------------------------------------------------
